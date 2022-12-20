@@ -41,14 +41,3 @@
 ## Layout
 
 ![Architecture in GraphQL Mern Project](https://user-images.githubusercontent.com/59168713/208564147-720e44c6-9daa-4d5a-8f4f-1b9b53a870ad.png)
-
-
-
-
-
-
-
-
-
-
-
