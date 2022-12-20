@@ -23,15 +23,15 @@
 
 ## To add data/update/delete data from server, we use mutations
 
-[!image]
+![mutations](https://user-images.githubusercontent.com/59168713/208563979-64cd83e3-f633-4360-a269-f05d353ec902.png)
 
 ### GraphQL Tool
 
-[!image]
+![GraphiQL tool](https://user-images.githubusercontent.com/59168713/208564063-4082c259-9cac-40a3-9a3f-a2c427fedda3.png)
 
 ## Schemas and Types
 
-[!image]
+![schemas and types](https://user-images.githubusercontent.com/59168713/208564113-2c032ae3-f31c-4144-8245-5aff5b4b9225.png)
 
 ## Getting Started
 
@@ -40,4 +40,15 @@
 
 ## Layout
 
-[!image]
+![Architecture in GraphQL Mern Project](https://user-images.githubusercontent.com/59168713/208564147-720e44c6-9daa-4d5a-8f4f-1b9b53a870ad.png)
+
+
+
+
+
+
+
+
+
+
+
