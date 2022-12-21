@@ -13,7 +13,7 @@
 
 ![rest api response](https://user-images.githubusercontent.com/59168713/208562780-33b374b2-ddb3-45d8-85e3-9852cae6ac6f.png)
 
-## How GraphQL Works
+## How GraphQL Works:
 
 ![how graphql works](https://user-images.githubusercontent.com/59168713/208562846-c2c0f7b1-0592-4073-b66d-af2a577d8ecc.png)
 
@@ -26,6 +26,7 @@
 ![mutations](https://user-images.githubusercontent.com/59168713/208563979-64cd83e3-f633-4360-a269-f05d353ec902.png)
 
 ### GraphQL Tool
+- It's used to edit and manipulate GraphQL query to display the data needed.
 
 ![GraphiQL tool](https://user-images.githubusercontent.com/59168713/208564063-4082c259-9cac-40a3-9a3f-a2c427fedda3.png)
 
