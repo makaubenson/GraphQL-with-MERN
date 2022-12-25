@@ -1,7 +1,7 @@
 {
   "name": "Learn GraphQL with a MERN Project",
   "version": "1.0.0",
-  "description": "GraphQL in MERN Project",
+  "description": "This project explores use cases of GraphQL using a MERN project",
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
