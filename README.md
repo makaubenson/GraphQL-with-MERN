@@ -26,6 +26,7 @@
 ![mutations](https://user-images.githubusercontent.com/59168713/208563979-64cd83e3-f633-4360-a269-f05d353ec902.png)
 
 ### GraphQL Tool
+
 - It's used to edit and manipulate GraphQL query to display the data needed.
 
 ![GraphiQL tool](https://user-images.githubusercontent.com/59168713/208564063-4082c259-9cac-40a3-9a3f-a2c427fedda3.png)
