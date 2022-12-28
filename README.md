@@ -37,7 +37,8 @@
 
 ## Getting Started
 
-- We use `express-graphql` npm package. - This is a GraphQL server for Node.js with tools to use with Express.
+- We use `express-graphql` npm package.
+- This is a GraphQL server for Node.js with tools to use with Express.
 - Other tools you can use include Apollo Server and also Graph CMS which all of them can be used to create a GRAPHQL API.
 
 ## Layout
