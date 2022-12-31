@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/makaubenson/GraphQL-with-MERN/issues"
   },
-  "homepage": "https://github.com/makaubenson/GraphQL-with-MERN#readme",
+  "homepage": "https://github.com/makaubenson/GraphQL-with-MERN",
   "dependencies": {
     "colors": "^1.4.0",
     "cors": "^2.8.5",
